@@ -1,0 +1,25 @@
+table {
+    border: 1px solid #ccc;
+    margin: auto;
+    margin-top: 30px;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid #ccc;
+    text-align: left;
+    padding: 10px;
+    height: 20px;
+}
+
+.favicon {
+    width: 28px;
+}
+
+#main {
+    width: 50%;
+    min-width: 360px;
+    margin: auto;
+    text-align: center;
+}
